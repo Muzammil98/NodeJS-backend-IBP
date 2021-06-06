@@ -1,0 +1,6 @@
+{
+    "connection_profile_filename":"./fabric_connection.json",
+    "channel_name":"mychannel",
+    "smart_contract_name":"gensupplychainnet",
+    "wallet":"./gen_ibp_wallet"
+}
